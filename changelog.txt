@@ -1,0 +1,27 @@
+Mistakes incorrect coordinates 42 times
+Mistakes incorrect dates 1 times
+Mistake missing dates 1 times
+Mistakes incorrect city ������
+Mistakes incorrect city Самара
+Mistakes: Invalid TT numbers in sales data: 42, 45
+Mistakes: Incorrect city Самара
+Mistakes: Incorrect city Самара
+Mistakes: Incorrect city Самара
+Mistakes: Invalid TT number 14 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 74 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 97 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 176 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 182 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 253 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 261 in sales data. Associated with Омск, expected Томск
+Mistakes: Incorrect city Самара
+Mistakes: TT number 42 in sales data is not present in the store data
+Mistakes: TT number 45 in sales data is not present in the store data
+Mistakes: Invalid TT number 14 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 74 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 97 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 176 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 182 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 253 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 261 in sales data. Associated with Омск, expected Томск
+Mistakes: Incorrect city Самара
