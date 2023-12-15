@@ -1,0 +1,16 @@
+Mistakes incorrect coordinates 41 times
+Mistakes incorrect dates 1 times
+Mistake missing dates 1 times
+Mistakes: TT NUMBER Sales data should start from January 1, 2018. Found start date: 2018-01-02 00:00:00.
+Mistakes: TT number 42 in sales data is not present in the store data
+Mistakes: TT number 45 in sales data is not present in the store data
+Mistakes: TT NUMBER Store 155 closed on 2005-04-15 00:00:00, but sales data available until 2020-01-06 00:00:00.
+Mistakes: TT NUMBER Sales data should start from January 1, 2018. Found start date: 2018-12-31 00:00:00.
+Mistakes: Invalid TT number 14 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 74 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 97 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 176 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 182 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 253 in sales data. Associated with Омск, expected Томск
+Mistakes: Invalid TT number 261 in sales data. Associated with Омск, expected Томск
+Mistakes: Incorrect city Самара
