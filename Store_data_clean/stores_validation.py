@@ -38,7 +38,7 @@ class StoresValidation:
         if not (-180 <= longitude <= 180):
             self._log_modification(tt_number, 'Invalid longitude, no change made')
             return (latitude, longitude)
-        geolocator = Nominatim(user_agent='your_app_name')
+        geolocator = Nominatim(user_agent='omd xls')
         try:
             location = geolocator.reverse((latitude, longitude), language='ru')
             if location is None:
